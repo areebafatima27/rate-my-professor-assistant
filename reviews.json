@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Engaging lectures and fair grading. Could improve on office hours availability."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor! Makes complex topics easy to understand. Highly recommended."
+    },
+    {
+      "professor": "Dr. Sarah Thompson",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Interesting course material, but lectures can be a bit disorganized."
+    },
+    {
+      "professor": "Prof. Robert Garcia",
+      "subject": "Mathematics",
+      "stars": 4,
+      "review": "Challenging course, but Prof. Garcia is always willing to help. Great problem-solving skills."
+    },
+    {
+      "professor": "Dr. Amanda Lee",
+      "subject": "English Literature",
+      "stars": 5,
+      "review": "Passionate about the subject. Encourages critical thinking and class discussions."
+    },
+    {
+      "professor": "Prof. David Wilson",
+      "subject": "Chemistry",
+      "stars": 2,
+      "review": "Difficult to follow in class. Exams are much harder than homework assignments."
+    },
+    {
+      "professor": "Dr. Jennifer Martinez",
+      "subject": "History",
+      "stars": 4,
+      "review": "Engaging storyteller. Makes history come alive. Could improve on feedback for essays."
+    },
+    {
+      "professor": "Prof. Thomas Brown",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Knowledgeable but sometimes struggles to explain concepts clearly."
+    },
+    {
+      "professor": "Dr. Lisa Wang",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Thought-provoking lectures and interesting assignments. Very approachable."
+    },
+    {
+      "professor": "Prof. James Anderson",
+      "subject": "Economics",
+      "stars": 4,
+      "review": "Clear explanations and real-world examples. Heavy workload but worth it."
+    },
+    {
+      "professor": "Dr. Karen Taylor",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Passionate and knowledgeable. Field trips to museums were a highlight."
+    },
+    {
+      "professor": "Prof. Christopher Lee",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "Interesting topics but can be biased in presentations. Encourage more diverse viewpoints."
+    },
+    {
+      "professor": "Dr. Michelle Rodriguez",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Engaging lecturer with a focus on current environmental issues. Group projects were challenging but educational."
+    },
+    {
+      "professor": "Prof. Daniel Kim",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Incredibly thought-provoking. Encourages students to question assumptions and think critically."
+    },
+    {
+      "professor": "Dr. Rachel Greene",
+      "subject": "Nursing",
+      "stars": 4,
+      "review": "Very knowledgeable and supportive. Clinical rotations were well-organized."
+    },
+    {
+      "professor": "Prof. Steven Wright",
+      "subject": "Business Administration",
+      "stars": 2,
+      "review": "Outdated teaching methods. Needs to incorporate more current business trends."
+    },
+    {
+      "professor": "Dr. Olivia Patel",
+      "subject": "Linguistics",
+      "stars": 5,
+      "review": "Fantastic professor! Makes linguistics accessible and fun. Great at explaining complex concepts."
+    },
+    {
+      "professor": "Prof. Alexander Novak",
+      "subject": "Mechanical Engineering",
+      "stars": 3,
+      "review": "Knowledgeable but strict. Assignments are challenging, which is good for learning but stressful."
+    },
+    {
+      "professor": "Dr. Sophia Clark",
+      "subject": "Anthropology",
+      "stars": 4,
+      "review": "Fascinating course content. Field work opportunity was a great experience."
+    },
+    {
+      "professor": "Prof. William Turner",
+      "subject": "Music Theory",
+      "stars": 5,
+      "review": "Exceptional instructor. Patient, encouraging, and deeply knowledgeable about music."
+    }
+  ]
+}
