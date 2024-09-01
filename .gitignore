@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.vs/rate-my-professor-assistant/v16/.suo
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
